@@ -114,18 +114,67 @@ body {
 }
 .colum-1{
     width: 328px;
-    height: 200px;
     float: left;
     background-color: white;
     border: 1px solid black;}
 
-  
+  .page-name{
+    position: relative;
+    clear: both;
+    height: 75px;
+    margin-bottom: 2px;}
+
+  .about{
+      position: relative;
+      top: -100px;
+      clear: both;
+      height: 75px;
+      margin-bottom: 2px;
+  }
+  .apps{
+    clear: both;
+    height: 75px;
+    margin-bottom: 2px;
+  }
+  .photo{
+    clear: both;
+    height: 75px;
+    margin-bottom: 2px;
+
+  }
 
 .colum-2{
 width: 512px;
-height: 200px;
+height: 500px;
 float: right;
 background-color: white;
-border: 1px solid black
+
+
+}
+
+.name-1{ 
+  
+    clear: both;
+    border: 1px solid green;
+    width: 512px;
+    height: 105px;
+    margin-bottom: 2px;
+}
+
+.name-2{
+
+    clear: both;
+    border: 1px solid green;
+    width: 512px;
+    height: 105px;
+    margin-bottom: 2px;
+}
+
+.name-3{
+  
+    clear: both;
+    border: 1px solid green;
+    height: 105px;
+    margin-bottom: 2px;
 
 }
